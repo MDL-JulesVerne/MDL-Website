@@ -15,11 +15,11 @@ Enfin, le site internet va de pair avec une plateforme web, qui permet égalemen
 Copyright (c) 2017 Matiboux (Mathieu Guérin)  
 *Vous trouverez une copie de la licence MIT dans le fichier **LICENSE**.*
 
-Cette licence s'applique à tous les fichier de ce repository.
+Cette licence s'applique à tous les fichiers de ce repository.
 
 ### MDL.ljv.fr Team
 
-Creator, Developer and Webmaster: **Matiboux (Mathieu Guérin)**
+Développeur et Webmaster: **Matiboux (Mathieu Guérin)**
  - **Email**: [matiboux@gmail.com](mailto:matiboux@gmail.com)
  - **Telegram**: [@Matiboux](https://t.me/Matiboux)
  - **Github**: [@Matiboux](https://github.com/Matiboux)
