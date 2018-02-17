@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+body { font-family: 'Roboto', sans-serif; background: #101010; color: #e0e0e0 }
+hr { border-color: rgba(255, 255, 255, .2) }
+h1, h2, h3 { color: #f0f0f0 }
+p { font-size: 13px; margin: 5px 0 }
+
+.container { max-width: 750px }
+
+#header + #main { margin-top: 10px }
+#main .container { background: #202020; padding: 20px }
+#main ul.social { font-size: 19px }
+#main ul.social li a { color: #e0e0e0 }
+#main ul.social li a:hover { text-decoration: none }
+#main ul.social li.twitter a:hover { color: #50a0f0 }
+#main ul.social li.facebook a:hover { color: #4080c0 }
+#main ul.social li.snapchat a:hover { color: #f0f050 }
+
+#main + #footer { margin-top: 10px }
+#footer { margin: 0; padding: 20px; text-align: center; color: #fff }
+@media (max-width: 767px) { /* XS */
+	#footer { font-size: 11px }
+	#footer > *:first-child { font-size: 13px }
+}
+@media (min-width: 768px) { /* SM, MD, LG */
+	#footer { font-size: 13px }
+	#footer > *:first-child { font-size: 15px }
+}
+#footer p, #footer ul { margin-bottom: 5px }
+#footer a { color: #f0f0f0; text-decoration: underline }
+#footer a:hover { text-decoration: none }
+
+#footer > ul { padding: 0 }
+#footer > ul > li { display: inline-block }
+#footer > ul > li:not(:first-child) { margin-left: 5px; padding-left: 8px; border-left: 1px solid #fff; }
+
+#main *:first-child, #items *:first-child, #footer *:first-child { margin-top: 0 }
+#main *:last-child, #items *:last-child, #footer *:last-child { margin-bottom: 0 }
