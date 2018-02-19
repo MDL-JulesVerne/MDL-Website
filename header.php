@@ -4,6 +4,9 @@
 		
 		<ul class="menu nav nav-pills">
 			<li class="nav-item">
+				<a class="nav-link" href="https://mdl.ljv.fr/">Accueil</a>
+			</li>
+			<li class="nav-item">
 				<a class="nav-link" href="https://mdl.ljv.fr/comptes-rendus/">Comptes-Rendus</a>
 			</li>
 		</ul>
