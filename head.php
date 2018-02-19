@@ -6,4 +6,4 @@
 
 <link rel="stylesheet" type="text/css" href="https://cdn.matiboux.com/css/bootstrap.min.css" />
 <link rel="stylesheet" type="text/css" href="https://cdn.matiboux.com/css/font-awesome.min.css" />
-<link rel="stylesheet" type="text/css" href="https://mdl.ljv.fr/style.css" />
+<link rel="stylesheet" type="text/css" href="style.css" />
