@@ -21,6 +21,7 @@ a:focus, a:hover { color: #306090 }
 #main ul.social li.twitter a:focus, #main ul.social li.twitter a:hover { color: #50a0f0 }
 #main ul.social li.facebook a:focus, #main ul.social li.facebook a:hover { color: #4080c0 }
 #main ul.social li.snapchat a:focus, #main ul.social li.snapchat a:hover { color: #f0f050 }
+#main ul.social li.discord a:focus, #main ul.social li.discord a:hover { color: #808080 }
 
 #main + #footer { margin-top: 10px }
 #footer { margin: 0; padding: 20px; text-align: center; color: #fff }
