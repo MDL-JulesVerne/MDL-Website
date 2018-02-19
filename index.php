@@ -20,6 +20,7 @@
 			<li class="facebook"><a href="https://facebook.com/mdljulesverne/"><i class="fab fa-facebook-square fa-fw"></i> Facebook @mdljulesverne</a></li>
 			<li class="twitter"><a href="https://twitter.com/MDL_ljv/"><i class="fab fa-twitter fa-fw"></i> Twitter @MDL_ljv</a></li>
 			<li class="snapchat"><a href="https://snapchat.com/add/mdl-jv44"><i class="fab fa-snapchat-ghost fa-fw"></i> Snapchat @MDL-jv44</a></li>
+			<li class="discord"><a href="https://discord.gg/tNHg3Cw"><i class="fab fa-discord fa-fw"></i> Discord MDL Jules Verne</a></li>
 		</ul>
 		<hr />
 		
