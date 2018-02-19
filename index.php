@@ -16,11 +16,7 @@
 </head>
 <body>
 
-<div id="header">
-	<div class="container text-center">
-		<h1><b>MDL Jules Verne</b></h1>
-	</div>
-</div>
+<?php include 'header.php'; ?>
 
 <div id="main">
 	<div class="container text-justify">
@@ -40,13 +36,7 @@
 	</div>
 </div>
 
-<div id="footer">
-	<ul>
-		<li><i class="fa fa-heart fa-fw"></i></li>
-		<li>Propulsé par <a href="https://ljv.fr/">ljv.fr</a></li>
-		<li><a href="mailto:mdl.julesverne44@gmail.com" target="_blank">Contactez-nous</a></li>
-	</ul>
-</div>
+<?php include 'footer.php'; ?>
 
 <?php /*<script type="text/javascript" src="https://cdn.matiboux.com/js/jquery-3.1.1.min.js"></script>*/ ?>
 <?php /*<script type="text/javascript" src="https://cdn.matiboux.com/js/bootstrap.min.js"></script>*/ ?>
