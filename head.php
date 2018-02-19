@@ -5,5 +5,5 @@
 <meta name="keywords" content="site,web,internet,mdl,maison,des,lycéens,lycée,high,school,jules,verne,Matiboux" />
 
 <link rel="stylesheet" type="text/css" href="https://cdn.matiboux.com/css/bootstrap.min.css" />
-<link rel="stylesheet" type="text/css" href="https://cdn.matiboux.com/css/font-awesome.min.css" />
+<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
 <link rel="stylesheet" type="text/css" href="style.css" />
