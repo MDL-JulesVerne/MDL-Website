@@ -1,4 +1,4 @@
-# MDL Website ([mdl.ljv.fr](https://mdl.ljv.fr/)) v1.1.2
+# MDL Website ([mdl.ljv.fr](https://mdl.ljv.fr/)) v1.1.3
 
 **Le site internet de la MDL** est *le site vitrine* officiel de *l'association "Maison des lycéens" du lycée Jules Verne de Nantes, en France*.
 
