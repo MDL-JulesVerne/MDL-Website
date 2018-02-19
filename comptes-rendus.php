@@ -16,7 +16,7 @@
 			<?php $files = glob('/var/www/vhosts/ljv.fr/_fr.ljv.mdl/comptes-rendus/*.txt');
 			rsort($files);
 			foreach($files as $eachFile) { ?>
-				<li><a href="https://mdl.ljv.fr/comptes-rendus/<?=basename($eachFile)?>"><?=basename($eachFile)?></a></li>
+				<li><a href="https://mdl.ljv.fr/comptes-rendus/<?=basename($eachFile)?>" target="_blank"><?=basename($eachFile)?></a></li>
 			<?php } ?>
 		</ul>
 	</div>
