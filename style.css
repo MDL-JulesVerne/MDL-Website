@@ -6,6 +6,10 @@ p { font-size: 13px; margin: 5px 0 }
 
 .container { max-width: 750px }
 
+#header .menu > li + li { margin-left: 4px }
+#header .menu > li a { background: #202020; color: #e0e0e0 }
+#header .menu > li a:focus, #header .menu > li a:hover { background: #202020; color: #e0e0e0 }
+
 #header + #main { margin-top: 10px }
 #main .container { background: #202020; padding: 20px }
 #main ul.social { font-size: 19px }
