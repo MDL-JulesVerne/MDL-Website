@@ -4,6 +4,9 @@ hr { border-color: rgba(255, 255, 255, .2) }
 h1, h2, h3 { color: #f0f0f0 }
 p { font-size: 13px; margin: 5px 0 }
 
+a { color: #4080c0 }
+a:focus, a:hover { color: #306090 }
+
 .container { max-width: 750px }
 
 #header .menu > li + li { margin-left: 4px }
