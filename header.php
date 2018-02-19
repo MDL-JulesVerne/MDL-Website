@@ -7,7 +7,7 @@
 				<a class="nav-link" href="https://mdl.ljv.fr/">Accueil</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" href="https://mdl.ljv.fr/comptes-rendus/">Comptes-Rendus</a>
+				<a class="nav-link" href="https://mdl.ljv.fr/comptes-rendus.php">Comptes-Rendus</a>
 			</li>
 		</ul>
 	</div>
