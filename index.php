@@ -17,9 +17,9 @@
 		
 		<h2>Réseaux sociaux</h2>
 		<ul class="social">
-			<li class="facebook"><a href="https://facebook.com/mdljulesverne/"><i class="fa fa-facebook-square fa-fw"></i> Facebook @mdljulesverne</a></li>
-			<li class="twitter"><a href="https://twitter.com/MDL_ljv/"><i class="fa fa-twitter fa-fw"></i> Twitter @MDL_ljv</a></li>
-			<li class="snapchat"><a href="https://snapchat.com/add/mdl-jv44"><i class="fa fa-snapchat-ghost fa-fw"></i> Snapchat @MDL-jv44</a></li>
+			<li class="facebook"><a href="https://facebook.com/mdljulesverne/"><i class="fab fa-facebook-square fa-fw"></i> Facebook @mdljulesverne</a></li>
+			<li class="twitter"><a href="https://twitter.com/MDL_ljv/"><i class="fab fa-twitter fa-fw"></i> Twitter @MDL_ljv</a></li>
+			<li class="snapchat"><a href="https://snapchat.com/add/mdl-jv44"><i class="fab fa-snapchat-ghost fa-fw"></i> Snapchat @MDL-jv44</a></li>
 		</ul>
 		<hr />
 		
