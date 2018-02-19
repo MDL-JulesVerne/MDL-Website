@@ -10,10 +10,10 @@ p { font-size: 13px; margin: 5px 0 }
 #main .container { background: #202020; padding: 20px }
 #main ul.social { font-size: 19px }
 #main ul.social li a { color: #e0e0e0 }
-#main ul.social li a:hover { text-decoration: none }
-#main ul.social li.twitter a:hover { color: #50a0f0 }
-#main ul.social li.facebook a:hover { color: #4080c0 }
-#main ul.social li.snapchat a:hover { color: #f0f050 }
+#main ul.social li a:focus, #main ul.social li a:hover { text-decoration: none }
+#main ul.social li.twitter a:focus, #main ul.social li.twitter a:hover { color: #50a0f0 }
+#main ul.social li.facebook a:focus, #main ul.social li.facebook a:hover { color: #4080c0 }
+#main ul.social li.snapchat a:focus, #main ul.social li.snapchat a:hover { color: #f0f050 }
 
 #main + #footer { margin-top: 10px }
 #footer { margin: 0; padding: 20px; text-align: center; color: #fff }
@@ -27,7 +27,7 @@ p { font-size: 13px; margin: 5px 0 }
 }
 #footer p, #footer ul { margin-bottom: 5px }
 #footer a { color: #f0f0f0; text-decoration: underline }
-#footer a:hover { text-decoration: none }
+#footer a:focus, #footer a:hover { text-decoration: none }
 
 #footer > ul { padding: 0 }
 #footer > ul > li { display: inline-block }
