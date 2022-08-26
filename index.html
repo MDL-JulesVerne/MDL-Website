@@ -1,20 +1,23 @@
+---
+---
+
 <html>
 <head>
 
-<?php include 'head.php'; ?>
+{% include head.html %}
 <title>MDL Jules Verne</title>
 
 </head>
 <body>
 
-<?php include 'header.php'; ?>
+{% include header.html %}
 
 <div id="main">
 	<div class="container text-justify">
 		<h2>Qu'est ce que la MDL ?</h2>
 		<p>La MDL – ou maison des lycéens – est <b>une association gérée par les lycéen et chargée d'organiser des projets</b> à l'initiative des élèves de l'établissement. La MDL forme également un espace commun à tous les lycéens dans l'établissement lui-même.</p>
 		<hr />
-		
+
 		<h2>Réseaux sociaux</h2>
 		<ul class="social">
 			<li class="facebook"><a href="https://facebook.com/mdljulesverne/"><i class="fab fa-facebook-square fa-fw"></i> Facebook @mdljulesverne</a></li>
@@ -23,15 +26,17 @@
 			<li class="discord"><a href="https://discord.gg/tNHg3Cw"><i class="fab fa-discord fa-fw"></i> Discord MDL Jules Verne</a></li>
 		</ul>
 		<hr />
-		
+
 		<iframe width="100%" height="400" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBKIllKEjK9ANegaPI4xFMVz6eQicFkJsA&q=place_id:ChIJgYbg7B3sBUgRoRMhqD0pYS4" allowfullscreen></iframe>
 	</div>
 </div>
 
-<?php include 'footer.php'; ?>
+{% include footer.html %}
 
+{% comment %}
 <?php /*<script type="text/javascript" src="https://cdn.matiboux.com/js/jquery-3.1.1.min.js"></script>*/ ?>
 <?php /*<script type="text/javascript" src="https://cdn.matiboux.com/js/bootstrap.min.js"></script>*/ ?>
+{% endcomment %}
 
 </body>
 </html>
